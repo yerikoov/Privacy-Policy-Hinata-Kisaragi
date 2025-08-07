@@ -1,6 +1,11 @@
 ![Banner](https://cdn.discordapp.com/attachments/1359249481639526433/1403029580570165248/image.jpg?ex=6896109f&is=6894bf1f&hm=bc476e9e79ca555eb89199fa05717b30827ad1444ee6f1d7939e647c7b01c394&)
 # Политика конфиденциальности бота «Hinata Kisaragi»
-
+<h4 align="center">
+  
+  ![disnake.py](https://img.shields.io/badge/disnake-py-blue.svg)
+  
+  ![Python](https://img.shields.io/badge/Python-3.11.7%20%E2%80%94%203.11.9-blue)
+</h4>
 ## RUS. 1. Какие данные собирает бот:
 Бот может обрабатывать следующие данные при использовании команд:
 
