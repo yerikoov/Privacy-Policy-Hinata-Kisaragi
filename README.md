@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/1359249481639526433/1403029580570165248/image.jpg?ex=6896109f&is=6894bf1f&hm=bc476e9e79ca555eb89199fa05717b30827ad1444ee6f1d7939e647c7b01c394&)
+![Banner](https://cdn.discordapp.com/attachments/1359249481639526433/1403029580570165248/image.jpg?ex=68ac7a1f&is=68ab289f&hm=cce7bcf81870263c54676b991d176af619745fdfa5d4243a8256d73f2b4797e1&)
 # Политика конфиденциальности бота «Hinata Kisaragi»
 <h4 align="center">
   
